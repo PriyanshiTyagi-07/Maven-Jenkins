@@ -10,7 +10,11 @@ public class MyClass4 {
 	
 	public void display()
 	{
-		System.out.println("Hello World");
+		System.out.println("Hello World ");
+	}
+	public void F3()
+	{
+		System.out.println("F3 ");
 	}
 public static void main (String[] args)
 {
