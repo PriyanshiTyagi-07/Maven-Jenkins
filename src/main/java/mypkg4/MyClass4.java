@@ -8,13 +8,14 @@ public class MyClass4 {
 		System.out.println("Hello , Welcome To Jenkins");
 	}
 	
-
+	public void display()
+	{
+		System.out.println("Hello World");
+	}
 public static void main (String[] args)
 {
 	MyClass4 ob  = new MyClass4();
 	ob.show();
 }
-
-
 }
 
